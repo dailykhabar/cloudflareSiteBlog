@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://shareinfo.pages.dev/sitemap.xml
